@@ -26,7 +26,7 @@ ParkEase is a smart parking system that allows users to book parking spots and r
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repository.git
+git clone https://github.com/Paribartan-Timalsina/ParkEase.git
 cd parkease
 ```
 
